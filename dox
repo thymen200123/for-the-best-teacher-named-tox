@@ -1,1 +1,90 @@
-
+<table>
+	<thead>
+		<tr>
+		<th>Question</th>
+		<th>ULR</th>
+        <th>Time & Date</th>
+        <th>info found</th>
+        <th>info type</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Real name</td>
+			<td><a href="https://www.indiegogo.com/projects/jagged-alliance-2-sti-editor#/">name</a></td>
+			<td>today</td>
+			<td>stephan moritz</td>
+			<td>personal</td>
+		</tr>
+		<tr>
+			<td>from</td>
+			<td><a href="https://www.indiegogo.com/projects/jagged-alliance-2-sti-editor#/">city</a></td>
+			<td>today</td>
+			<td>bremen</td>
+			<td>personal</td>
+		</tr>
+		<tr>
+			<td>phone number</td>
+			<td><a href="https://www.detelefoongids.nl/novasonica/20126060/5-1/">phone number</a></td>
+			<td>today</td>
+			<td>06-85489350</td>
+			<td>personal</td>
+		</tr>
+		<tr>
+			<td>Company name</td>
+			<td>?</td>
+			<td>today</td>
+			<td>novasonica</td>
+			<td>buisness</td>
+		</tr>
+		<tr>
+			<td>Music project</td>
+			<td>?</td>
+			<td>today</td>
+			<td>four-o-four</td>
+			<td>buisness</td>
+		</tr>	
+		<tr>
+			<td>colabs</td>
+			<td>?</td>
+			<td>today</td>
+			<td>?</td>
+			<td>buisnes</td>
+		</tr>
+		<tr>
+			<td>hacked games</td>
+			<td><a href="https://www.indiegogo.com/projects/jagged-alliance-2-sti-editor#/">game</a></td>
+			<td>today</td>
+			<td>ja2sti</td>
+			<td>both</td>
+		</tr>
+		<tr>
+			<td>source codes</td>
+			<td>?</td>
+			<td>today</td>
+			<td>?</td>
+			<td>buisness</td>
+		</tr>
+		<tr>
+			<td>programming language</td>
+			<td>?</td>
+			<td>today</td>
+			<td>a lot</td>
+			<td>buisness</td>
+		</tr>
+		<tr>
+			<td>domains</td>
+			<td><a href="http://www.webcodesign.de">domain</a></td>
+			<td>today</td>
+			<td>webcodedesign</td>
+			<td>buisness</td>
+		</tr>
+		<tr>
+			<td>Father</td>
+			<td>?</td>
+			<td>today</td>
+			<td>Horst Moritz</td>
+			<td>personal</td>
+		</tr>
+	</tbody>
+</table>	
